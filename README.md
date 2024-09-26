@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fasooll
+- 👋 Hi, I’m @fa/so/LL
 - 👀 I’m interested in PYTHOOOOOOOOON
 - 🌱 I’m currently learning PYTHOOOOOOOON
 - 💞️ I’m NOT looking to collaborate on
